@@ -241,3 +241,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+### Ninja template
+.ninja_deps
+.ninja_log
+

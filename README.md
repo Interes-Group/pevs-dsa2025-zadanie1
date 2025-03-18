@@ -96,7 +96,7 @@ V rámci implementácie programu môžte použiť všetky štandardné knižnice
 
 Štruktúru prefixového stromu (Trie) implementujte pomocou tried. Využite princíp enkapsulácie/zapúzdrenia v implementácií tried. **Môžeme predpokladať**, že uložené **mená**, resp. pridávané mená, **sú unikátne**. V prípade pridanie nového záznamu, ktorého osoba sa nachádza už v štruktúre je existujúci záznam nahradený novým (t.j. pre jedno unikátne priezvisko a krstné meno pripadá jedno telefónne číslo).
 
-Implementácia môže byť umiestnená v jednom súbore, `main.cpp`. V prípade rozdelenie kódu do viacerých súborov, nezabudnite pridať tieto zdrojové súbory do súboru CMakeLists.txt aby boli skompilované s celým programom.
+Implementácia môže byť umiestnená v jednom súbore, `main.cpp`. V prípade rozdelenie kódu do viacerých súborov, nezabudnite pridať tieto zdrojové súbory do príkazu `add_executable` v rámci súboru _src/CMakeLists.txt_ aby boli skompilované s celým programom.
 
 Pre kontrolu kompilácie je v repozitáry nastavená automatizácia cez GitHub pipeline. Pipeline sa spustí automaticky pre každý `git push` do vetvy `main`. GitHub pipeline sa pokúsi kód v repozitáry z posledného commitu skompilovať a následne spustiť. Pipeline je možné spustiť ľubovolný počet krát. Spustenie pipeline je možné vidieť v záložke "Actions" vo vašom repozitáry vypracovania zadania.
 
