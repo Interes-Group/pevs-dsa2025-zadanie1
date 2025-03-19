@@ -1,7 +1,7 @@
 # PEVŠ DSA 2025 - Semestrálne zadanie 1 - Telefónny zoznam
 
 ![C++ 17](https://img.shields.io/badge/language-C%2B%2B%2017-blue)
-![Deadline 25.03.2025 23:59](https://img.shields.io/badge/deadline-25.03.2025%2023%3A59-red)
+![Deadline 28.03.2025 23:59](https://img.shields.io/badge/deadline-28.03.2025%2023%3A59-red)
 [![Github Classromm](https://img.shields.io/badge/GitHub-Classroom-green)](https://classroom.github.com/classrooms)
 [![Static Badge](https://img.shields.io/badge/Web-DSA.Interes.Group-aquamarine)](https://dsa.interes.group)
 
@@ -114,12 +114,12 @@ Zadanie je **ohodnotené 20 bodmi**. Odovzdanný program musí byť skompilovate
 
 ## Odovzdanie
 
-Po prihlasení sa na zadanie cez [GitHub Classroom](TODO) vám je automaticky vytvorená kópia repozitára, ktorý bude nastavený ako privátny pre vás na vypracovanie (t.j. máte povolený commit a push do repozitára). Skontrolujte si, či sa váš repozitár nachádza pod skupinou _Interes-Group_, inak vyučujúci nemajú prístup ku vášmu repozitáru a zadanie sa nepovažuje za odovzdané. Ak sa vám repozitár nevytvorí ihneď kontajktuje vyučujúceho na MS Teams alebo na univerzitnom emaily. Je prísne zakázané dávať prístup k vášmu repozitáru inému štundetovi, alebo osobe, ktorá nie je vyučujúci.
+Po prihlasení sa na zadanie cez [GitHub Classroom](https://classroom.github.com/a/9fAWfj4r) vám je automaticky vytvorená kópia repozitára, ktorý bude nastavený ako privátny pre vás na vypracovanie (t.j. máte povolený commit a push do repozitára). Skontrolujte si, či sa váš repozitár nachádza pod skupinou _Interes-Group_, inak vyučujúci nemajú prístup ku vášmu repozitáru a zadanie sa nepovažuje za odovzdané. Ak sa vám repozitár nevytvorí ihneď kontajktuje vyučujúceho na MS Teams alebo na univerzitnom emaily. Je prísne zakázané dávať prístup k vášmu repozitáru inému štundetovi, alebo osobe, ktorá nie je vyučujúci.
 
 V repozitáry upravujte iba súbory pod priečinkom `src`. Ostatné súbory je zakázané upravovať, predovšetkým súbory pre kompiláciu, súbory obsahujúce github pipeline-y (_.github_) a súbory obsahujúce automatizované testy. Pri zmene týchto súborov môže byť vypracovanie ohodnotené 0 bodmi.
 
 Vypracovanie zadania priebežne commitujte/pushujte do repozitára vytvoreného GitHubom pre toto zadanie. Váš kód commitujte/pushujte do vetvy `main`. Hodnotený bude posledný commit/push do termínu odovzdania vypracovania.
-Vypracovanie je **nutné odovzdať**/commitnúť/pushnúť do repozitára **do 25.03.2025 23:59**. Neodovzdanie je hodnotené 0 bodmi.
+Vypracovanie je **nutné odovzdať**/commitnúť/pushnúť do repozitára **do 28.03.2025 23:59**. Neodovzdanie je hodnotené 0 bodmi.
 
 V prípade otázok, alebo technických problémov môžete kontaktovať vyučujúcich na MS Teams alebo na univerzitnom emaily.
 
